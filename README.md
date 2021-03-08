@@ -70,8 +70,3 @@ This project is originally taken from Johan Andrén's [Akka-HTTP version](https:
 Johan also has a blog post explaining dynamic streams in more detail:
 
 * http://markatta.com/codemonkey/blog/2016/10/02/chat-with-akka-http-websockets/
-
-
-ghfgwfjhwker
-
-jhshsdhfhdskfk
